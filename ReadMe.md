@@ -1,4 +1,4 @@
-# All About Artem's Work
+# All About azztigz's Work
 
 ## Guidelines in creating SVG Template
 
