@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="436.246px" height="300.219px" viewBox="0 0 436.246 300.219" enable-background="new 0 0 436.246 300.219"
+	 xml:space="preserve">
+<g id="fixed">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" y="0" width="436.246" height="300.219"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 0)" clip-path="url(#SVGID_2_)">
+			
+				<image overflow="visible" width="500" height="333" xlink:href="http://download.fotolia.com/Content/CompImage500/FotoliaComp_74772993_Dvoaq8kgd4Z1WbELcc18eSF9J159lqEo"  transform="matrix(0.9921 0 0 0.9921 -43.2017 -7.2293)">
+			</image>
+		</g>
+	</g>
+	<rect x="229.84" y="222.188" fill="#FFFFFF" width="154.474" height="16.356"/>
+	<rect id="white_background_7_" x="198.68" y="154.324" opacity="0.8" fill="#261F1C" width="237.565" height="67.849"/>
+	<rect x="202.168" y="157.959" fill="#261F1C" width="234.077" height="60.579"/>
+</g>
+<g id="movable">
+	<text transform="matrix(1 0 0 1 239.9438 234.1231)" fill="#261F1C" font-family="'GeosansLight'" font-size="12.7214">www.adventfinancial.com.ph</text>
+	<g>
+		<text transform="matrix(1 0 0 1 244.3188 203.6168)" fill="#FFFFFF" font-family="'LondonTwo'" font-size="14.5387">ADVENT FINANCIAL</text>
+	</g>
+	<g>
+		<polygon fill="#FFFFFF" points="294.531,172.329 294.531,186.199 297.569,186.199 297.569,173.672 295.145,172.061 		"/>
+		<polygon fill="#FFFFFF" points="298.411,186.199 301.451,186.199 301.451,176.249 298.411,174.23 		"/>
+		<polygon fill="#FFFFFF" points="302.289,176.809 302.289,186.199 305.331,186.199 305.331,176.776 303.433,177.566 		"/>
+		<polygon fill="#FFFFFF" points="306.085,186.199 309.127,186.199 309.127,175.199 306.085,176.462 		"/>
+		<polygon fill="#FFFFFF" points="309.965,174.849 309.965,186.199 313.005,186.199 313.005,174.746 312.143,173.946 		"/>
+		<polygon fill="#FFFFFF" points="313.847,175.527 313.847,186.199 316.889,186.199 316.889,175.016 314.482,176.118 		"/>
+		<polygon fill="#FFFFFF" points="317.727,186.199 320.768,186.199 320.768,173.241 317.727,174.633 		"/>
+		<polygon fill="#FFFFFF" points="321.606,186.199 324.648,186.199 324.648,171.465 321.606,172.856 		"/>
+		<polygon fill="#FFFFFF" points="325.486,186.199 328.528,186.199 328.528,169.688 325.486,171.079 		"/>
+		<polygon fill="#FFFFFF" points="331.453,165.945 329.756,166.163 329.756,166.075 329.468,166.201 326.455,166.589 
+			327.108,167.249 315.419,172.439 313.346,170.316 304.295,174.111 295.807,168.71 294.438,169.289 294.438,170.735 
+			295.553,170.389 303.841,175.895 312.551,172.274 314.89,174.446 328.203,168.352 328.812,168.968 		"/>
+	</g>
+	<rect x="232.329" y="40.906" fill="none" width="182" height="56"/>
+	<text transform="matrix(1 0 0 1 234.0736 50.7059)"><tspan x="0" y="0" font-family="'BebasNeue'" font-size="14">Lorem ipsum dolor sit amet, consecte</tspan><tspan x="174.734" y="0" font-family="'BebasNeue'" font-size="14">-</tspan><tspan x="17.331" y="17" font-family="'BebasNeue'" font-size="14">tur adipisicing  sed do eiusmod.</tspan></text>
+</g>
+</svg>

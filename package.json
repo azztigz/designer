@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-watch": "*",
+    "gulp-notify": "*",
+    "gulp-livereload": "*",
+    "gulp-shell": "*",
+    "laravel-elixir": "*"
+  }
+}

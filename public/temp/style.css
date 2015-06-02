@@ -1,0 +1,51 @@
+body,
+#tools_left {
+	background: none;
+}
+
+#workarea {
+	width: 520px !important;
+	height: 520px !important;
+}
+
+#rulers,
+#sidepanels,
+#tools_bottom,
+#tool_fhpath,
+#tool_line,
+#tools_line_show,
+#tools_rect_show,
+#tools_ellipse_show,
+#tool_path,
+#tools_shapelib_show,
+#tool_image,
+#tool_zoom,
+#tool_polygon,
+#tool_star,
+#tool_eyedropper,
+#ext-panning,
+#tool_clear,
+/*#tool_import,*/
+#tool_imagelib,
+#main_menu > p,
+#tool_prefs_option,
+#editor_panel,
+#history_panel {
+	display: none !important;
+	opacity: 0 !important;
+}
+
+#fotolia_box {
+	position: absolute;
+	top: 40px;
+	left: 580px;
+}
+
+#fotolia_search_result {
+	width: 800px;
+}
+
+#fotolia_search_result img {
+	margin: 10px;
+	cursor: pointer;
+}

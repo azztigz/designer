@@ -1,0 +1,27 @@
+{
+    "name": "imagin/fotolia-api",
+    "description": "Composer package of the Fotolia API toolkit",
+    "keywords": ["fotolia", "api"],
+    "homepage": "https://github.com/Fotolia/Fotolia-API",
+    "type": "library",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Fotolia LLC",
+            "homepage": "http://www.fotolia.com",
+            "role": "Developer"
+        },
+        {
+            "name": "IMAGIN IT",
+            "homepage": "http://www.imagin.pl",
+            "role": "Composer"
+        }
+	],
+    "require": {
+        "php": ">=5.2.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
